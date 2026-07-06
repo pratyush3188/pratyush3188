@@ -71,13 +71,13 @@ I'm **Pratyush**, a Computer Science (AI/DS) student who loves creating products
 
 ---
 
-## 🐍 Contribution Snake
+## 🕹️ Contribution Breakout
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratyush3188/pratyush3188/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratyush3188/pratyush3188/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/pratyush3188/pratyush3188/output/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratyush3188/pratyush3188/github-breakout/images/breakout-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratyush3188/pratyush3188/github-breakout/images/breakout-light.svg" />
+    <img alt="Breakout Game" src="https://raw.githubusercontent.com/pratyush3188/pratyush3188/github-breakout/images/breakout-light.svg" width="100%" />
   </picture>
 </div>
 
