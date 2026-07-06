@@ -27,14 +27,13 @@ I'm **Pratyush**, a Computer Science (AI/DS) student who loves creating products
 
 
 
-## 🧩 Strengths at a glance
+## ⚡ Highlights & Wins
 
-- **Front‑end craft**: Component‑driven UX in React + TypeScript; clean hooks and predictable state
-- **Full‑stack projects**: Megablock, Blogify, Uber Clone, Next.js Polling App — built end to end
-- **AI integration**: VedaAI — simplifies complex reports using AI; Medical Triage system
-- **NPM publishing**: Built & published `pratyushform` package on NPM
-- **Open source**: Active contributor at IAESTE LC JECRC — official website & member portal
-- **DSA practice**: Consistent problem solving with Striver's & Kunal Kushwaha's sheets
+- **Front‑End Craft**: Specializing in component‑driven UX with React & TypeScript. I focus on clean hooks, reusable components, and predictable state management.
+- **Full‑Stack Architecture**: Built end-to-end applications including *Megablock*, *Blogify*, *Uber Clone*, and a *Next.js Polling App*—handling everything from database schemas to UI.
+- **AI Integration**: Engineered *VedaAI* to simplify complex data reports using LLMs, and developed a smart *Medical Triage System*.
+- **Open Source & NPM**: Published the `pratyushform` package on NPM, and actively maintain the official website and member portal for *IAESTE LC JECRC*.
+- **Algorithmic Problem Solving**: Consistently sharpening my logical skills and data structures knowledge by tackling Striver’s and Kunal Kushwaha’s problem sheets.
 
 ---
 
