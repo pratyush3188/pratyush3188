@@ -12,15 +12,16 @@
 
 ---
 
-# 🧭 The short story
+# 🚀 My Journey So Far
 
-I build products with a simple loop: understand the problem, cut the noise, and ship clean software that users can trust. As a frontend developer growing into full-stack, I move from interface to infrastructure with the same question in mind: how do we make this simpler, faster, and easier to evolve tomorrow?
+It started with simple curiosity—writing my first lines of code just to watch something move on a screen. Today, that curiosity drives me to build full-stack applications, experiment with AI, and contribute to open source. 
 
-- **Core stack**: TypeScript • Next.js • React • Node.js • Express • MongoDB • Tailwind CSS • Python
-- **Strengths**: component-driven UIs, full-stack web apps, AI-powered tools, open-source NPM packages, end-to-end ownership from idea to deployment
-- **Exploring**: DSA & competitive programming, system design patterns, DevOps & cloud infrastructure, real-time WebSocket applications
+I'm **Pratyush**, a Computer Science (AI/DS) student who loves creating products where thoughtful design meets practical engineering. Whether it's a fast-paced hackathon prototype, a published NPM package, or a production-ready web app, I enjoy turning raw ideas into real, tangible experiences.
 
-> I value clarity over cleverness, small fast iterations over big promises, and code that explains itself.
+- **Tech I enjoy**: TypeScript • Next.js • React • Node.js • Express • MongoDB • Tailwind CSS • Python
+- **Beyond coding**: Solving DSA problems, exploring new tech, and collaborating to build meaningful tools.
+
+> Because for me, every repository tells a story—and I'm just getting started.
 
 ---
 
